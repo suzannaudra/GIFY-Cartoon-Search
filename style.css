@@ -1,0 +1,29 @@
+#gifs-appear-here {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+
+#buttons {
+    align-items: center;
+    text-align: center;
+    margin-left: 15px;
+    margin: 15px;
+    
+
+}
+
+#searchbox {
+    text-align: center;
+}
+#title { 
+    text-align: center;
+    color: lightcoral;
+    font-size: 25px;
+}
+body{
+background-color: deepskyblue;
+color: darkcyan;
+}
