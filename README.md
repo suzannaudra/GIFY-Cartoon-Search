@@ -2,3 +2,5 @@ This is a fun program that uses the GIFY API.  It allows you to click on any car
 
 
 Link to deployed site: https://suzannaudra.github.io/GIFY-Cartoon-Search/
+
+![Giphy](GiPHY.png)
