@@ -1,7 +1,7 @@
 
 document.write()
 
-var topics = ["Family Guy", "Rocket Power", "Looney Tunes", "Ren & Stimpy", "Animaniacs", "Rugrats", "The Simpsons", "Doug", "Powerpuff Girls", "Jimmy Neutron", "The Flintstones"];
+var topics = ["Family Guy", "Rocket Power", "Looney Tunes", "Ren & Stimpy", "Animaniacs", "Rugrats", "The Simpsons", "The Jetsons", "Doug", "Powerpuff Girls", "Jimmy Neutron", "The Flintstones"];
 console.log(topics)
 function createButtons() {
   $('#buttons').html('')
